@@ -27,7 +27,7 @@ Just add **/dist/content-protector.js** file to your website. No CSS or images a
 
 ### Supported Browsers
 
-All major browsers are supported such as: **Chrome**, **Firefox**, **Safari, **Edge**, **Opera\*\*, etc.
+All major browsers are supported such as: **Chrome**, **Firefox**, **Safari**, **Edge**, **Opera**, etc.
 
 ### Supported Operating Systems
 
